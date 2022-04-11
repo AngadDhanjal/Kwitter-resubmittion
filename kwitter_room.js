@@ -1,12 +1,13 @@
 
 const firebaseConfig = {
-      apiKey: "AIzaSyDf3THCFs9CC_vacnzXPN5-AA1XiJHZpBs",
-      authDomain: "chat-web-app-cec3d.firebaseapp.com",
-      projectId: "chat-web-app-cec3d",
-      storageBucket: "chat-web-app-cec3d.appspot.com",
-      messagingSenderId: "804376208474",
-      appId: "1:804376208474:web:4e18299bfd9aa5b7842463",
-      measurementId: "G-0BFWKG1PEW"
+      apiKey: "AIzaSyB9QjkWvVdZfG8TWPqHhpmqlxvAN7hO7Vw",
+      authDomain: "sample-kwitter.firebaseapp.com",
+      databaseURL: "https://sample-kwitter-default-rtdb.firebaseio.com",
+      projectId: "sample-kwitter",
+      storageBucket: "sample-kwitter.appspot.com",
+      messagingSenderId: "697467928093",
+      appId: "1:697467928093:web:4cb2772f22037c4fb010f4",
+      measurementId: "G-ZEDGLL2X44"
     };
       firebase.initializeApp(firebaseConfig);
 
